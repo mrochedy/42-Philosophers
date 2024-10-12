@@ -4,6 +4,8 @@ Welcome to my implementation of **Philosophers**, a core project completed as pa
 
 In this repository, you’ll find my complete version of the **Philosophers** project, carefully crafted and evaluated by peers. While I aimed to make this solution as bug-free as possible, challenges in concurrency are always complex, and feedback is greatly appreciated.
 
+<img width="198" alt="125/100 grade" src="https://github.com/user-attachments/assets/708486c1-c045-40d6-ab0c-e5dc3650a50d">
+
 ## About the Project
 
 This repository offers a **comprehensive implementation** of the **Philosophers** project from the 42 curriculum. The project is designed to help students understand complex concurrency issues, including synchronization, deadlocks, and efficient resource sharing in C. It was coded by **Maxime Rochedy** under the login **mrochedy**.
